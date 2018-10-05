@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1538698999 source:/home/alumno/Escritorio/parcial 1/Afiche.c
+	<stdio.h>
+	<stdlib.h>
+	"Afiche.h"
+	"Cliente.h"
+	"utn.h"
+	<string.h>
+
+1538698913 /home/alumno/Escritorio/parcial 1/Afiche.h
+	"Cliente.h"
+
+1538697627 /home/alumno/Escritorio/parcial 1/Cliente.h
+
+1538698816 source:/home/alumno/Escritorio/parcial 1/Cliente.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	"Afiche.h"
+	"Cliente.h"
+	"utn.h"
+	<string.h>
+
+1538697065 /home/alumno/Escritorio/parcial 1/utn.h
+
+1538698816 source:/home/alumno/Escritorio/parcial 1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Afiche.h"
+	"Cliente.h"
+	"utn.h"
+	<string.h>
+
+1538697065 source:/home/alumno/Escritorio/parcial 1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	"Afiche.h"
+	"Cliente.h"
+	<string.h>
+	"utn.h"
+
